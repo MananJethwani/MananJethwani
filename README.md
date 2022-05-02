@@ -1,8 +1,7 @@
 ### Hey!!! I am Manan 👋
 
 - 🔭 I’m currently working on: web devlopment!
-- 🌱 I’m currently learning: Scraping and React
-- 👯 I’m collaborating with: mwoffliner(kiwix) and bitbyte(TPC)
+- 🌱 I’m currently learning: Design Patterns and Architectures
 - 💬 Ask me about: Javascript/Typescript and C++
 - 📫 How to reach me: 2019282@iiitdmj.ac.in
 - 😄 Pronouns: He/His
