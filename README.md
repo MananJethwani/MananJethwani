@@ -1,11 +1,11 @@
 ### Hey!!! I am Manan 👋
 
-- 🔭 I’m currently working on: web devlopment!
+- 🔭 I’m currently working on: web development!
 - 🌱 I’m currently learning: Design Patterns and Architectures
 - 💬 Ask me about: Javascript/Typescript and C++
 - 📫 How to reach me: 2019282@iiitdmj.ac.in
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: A Real programmers’ favourite line is “It works on my machine!” :stuck_out_tongue:
+- ⚡ Fun fact: A Real programmers favourite line is “It works on my machine!” :stuck_out_tongue:
 - Wanna know more About me: 
 
 ### Github Usage ~ Status
