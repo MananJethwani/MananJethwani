@@ -1,8 +1,8 @@
 ### Hey!!! I am Manan 👋
 
-- 🔭 I’m currently working on: web development!
+- 🔭 I’m currently working as: Backend Developer!
 - 🌱 I’m currently learning: Design Patterns and Architectures
-- 💬 Ask me about: Javascript/Typescript and C++
+- 💬 Ask me about: Java(Springboot), Javascript/Typescript and C++
 - 📫 How to reach me: 2019282@iiitdmj.ac.in
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: A Real programmers favourite line is “It works on my machine!” :stuck_out_tongue:
